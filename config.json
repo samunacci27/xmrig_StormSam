@@ -147,7 +147,7 @@
             "algo": "rx/0",
             "coin": "XMR",
             "url": "stratum+tcp://randomxmonero.auto.nicehash.com:9200",
-            "user": "NHbTV2brHAf1rv6o8GWxXqk9cfgE1e7eS2ce.CortexLinuxSystem",
+            "user": "",
             "pass": "x",
             "rig-id": "yourrig",
             "nicehash": true,
